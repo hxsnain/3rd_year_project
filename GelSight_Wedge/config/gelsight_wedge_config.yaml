@@ -1,0 +1,10 @@
+stream:
+  ip: "127.0.0.1"
+  markers_h: 13
+  markers_w: 15
+  marker_distance: 20
+  mmpp: 0.1
+  selected_corners: [(36, 45), (46, 432), (584, 421), (566, 36)] # TL, TR, BR, BL
+
+calibration:
+  ball_diam: 5  # mm unit
